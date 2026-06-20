@@ -1,0 +1,6 @@
+{
+  "name": "ESMARC Ecommerce SaaS",
+  "description": "Multi-tenant ecommerce SaaS platform frontend and backend architecture",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
